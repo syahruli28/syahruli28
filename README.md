@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aqil Emeraldi
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Data Engineer and Web Programming
+- 👀 I’m interested in Python and PHP
+- 🌱 I’m currently learning Data Engineer, Web Automation and Web Programming
 
 <!---
 syahruli28/syahruli28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
